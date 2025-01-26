@@ -11,22 +11,22 @@
 		"private_key_type": "ecdsa"
 	},
 	"certificate_management_status": null,
-	"cname_target": "2udamkamcl8pjmrff.3z9aabadsejhzmn4r.local-ngrok-cname.com",
-	"created_at": "2025-01-21T18:19:30Z",
+	"cname_target": "2udamkamcl8pjmrff.3gvmlqfyadjg8xsze.local-ngrok-cname.com",
+	"created_at": "2025-01-26T10:06:55Z",
 	"description": "point-of-sale new york #302",
 	"domain": "myapp.mydomain.com",
 	"error_redirect_url": null,
 	"http_endpoint_configuration": {
-		"id": "ec_2rwwiHLJTkLSULsgETinh5gUooR",
-		"uri": "https://api.ngrok.com/endpoint_configurations/ec_2rwwiHLJTkLSULsgETinh5gUooR"
+		"id": "ec_2sA6Qbgi21wiyswFziVJCxX0PKO",
+		"uri": "https://api.ngrok.com/endpoint_configurations/ec_2sA6Qbgi21wiyswFziVJCxX0PKO"
 	},
 	"https_endpoint_configuration": {
-		"id": "ec_2rwwiJkovRnJDk6G2HuFtNutzp5",
-		"uri": "https://api.ngrok.com/endpoint_configurations/ec_2rwwiJkovRnJDk6G2HuFtNutzp5"
+		"id": "ec_2sA6Qc7fKyYhWcxpHBuwsOUcpiL",
+		"uri": "https://api.ngrok.com/endpoint_configurations/ec_2sA6Qc7fKyYhWcxpHBuwsOUcpiL"
 	},
-	"id": "rd_2rwwiHmpNoo4xfo56aZwviCiLeF",
+	"id": "rd_2sA6QYvISFvslWgURdpn6ZKBe2M",
 	"metadata": "{env: \"staging\", \"connector_id\":\"64698fcc-5f5c-4b63-910e-8669d04bd943\"}",
 	"region": "",
-	"uri": "https://api.ngrok.com/reserved_domains/rd_2rwwiHmpNoo4xfo56aZwviCiLeF"
+	"uri": "https://api.ngrok.com/reserved_domains/rd_2sA6QYvISFvslWgURdpn6ZKBe2M"
 }
 ```

@@ -4,14 +4,14 @@
 
 ```json
 {
-	"created_at": "2025-01-21T18:19:53Z",
+	"created_at": "2025-01-26T10:07:19Z",
 	"description": "acme https edge",
 	"hostports": ["example.com:443"],
-	"id": "edghts_2rwwlF2C6pcNPg5J0OCd1zj6Sp6",
+	"id": "edghts_2sA6TQixRiF2QD0Mf94KBjOC0LY",
 	"metadata": "{\"environment\": \"production\"}",
 	"mutual_tls": null,
 	"routes": [],
 	"tls_termination": null,
-	"uri": "https://api.ngrok.com/edges/https/edghts_2rwwlF2C6pcNPg5J0OCd1zj6Sp6"
+	"uri": "https://api.ngrok.com/edges/https/edghts_2sA6TQixRiF2QD0Mf94KBjOC0LY"
 }
 ```
